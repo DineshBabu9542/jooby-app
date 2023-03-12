@@ -1,0 +1,35 @@
+.employ-list-item {
+  list-style-type: none;
+  margin-bottom: 8px;
+}
+
+.salary-un-order-list-container {
+  padding-left: 0px;
+}
+
+.employ-salary-name {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 18px;
+  color: #f1f5f9;
+}
+
+.hr-line {
+  border: 1px solid #475569;
+}
+
+.salary-container {
+  margin-top: 22px;
+}
+
+.employ-un-order-list-container {
+  padding-left: 0px;
+}
+
+.label-name {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 13px;
+  color: #f1f5f9;
+  margin-left: 8px;
+}
